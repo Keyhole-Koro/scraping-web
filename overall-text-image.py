@@ -7,8 +7,7 @@ import os
 
 user_input = input("Enter url: ")
 #highest_url = "https://compe.japandesign.ne.jp/"
-#highest_page = requests.get(highest_url)
-#highest_soup = BeautifulSoup(highest_page.content, 'html.parser')
+
 
 lower_links = []
 
