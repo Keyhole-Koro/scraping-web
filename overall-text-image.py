@@ -8,7 +8,6 @@ import os
 user_input = input("Enter url: ")
 #highest_url = "https://compe.japandesign.ne.jp/"
 
-
 lower_links = []
 
 def arrange_current_page(a_current_url):
